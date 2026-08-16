@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Terminal card. luke at pulumi: role computer scientist; langs go, typescript, python, swift; building speculate, pmox, Ezmoji; uptime 5 years 360 days; web luke-ward.com.">
+  <rect x="1" y="1" width="998" height="298" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="28" cy="24" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="24" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="24" r="6" fill="#27c93f"/>
+  <text x="88" y="29" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#6e7681">luke@pulumi:~</text>
+  <line x1="1" y1="44" x2="999" y2="44" stroke="#21262d" stroke-width="1"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="15">
+    <!-- ascii mark -->
+    <g fill="#5EC5A5">
+      <text x="52" y="96">██╗&#160;&#160;&#160;&#160;&#160;&#160;██╗&#160;&#160;&#160;&#160;██╗</text>
+      <text x="52" y="120">██║&#160;&#160;&#160;&#160;&#160;&#160;██║&#160;&#160;&#160;&#160;██║</text>
+      <text x="52" y="144">██║&#160;&#160;&#160;&#160;&#160;&#160;██║&#160;█╗&#160;██║</text>
+      <text x="52" y="168">██║&#160;&#160;&#160;&#160;&#160;&#160;██║███╗██║</text>
+      <text x="52" y="192">███████╗&#160;╚███╔███╔╝</text>
+      <text x="52" y="216">╚══════╝&#160;&#160;╚══╝╚══╝</text>
+    </g>
+    <!-- palette strip -->
+    <g>
+      <rect x="52"  y="244" width="20" height="14" fill="#484f58"/>
+      <rect x="78"  y="244" width="20" height="14" fill="#ff7b72"/>
+      <rect x="104" y="244" width="20" height="14" fill="#3fb950"/>
+      <rect x="130" y="244" width="20" height="14" fill="#d29922"/>
+      <rect x="156" y="244" width="20" height="14" fill="#58a6ff"/>
+      <rect x="182" y="244" width="20" height="14" fill="#bc8cff"/>
+      <rect x="208" y="244" width="20" height="14" fill="#39c5cf"/>
+      <rect x="234" y="244" width="20" height="14" fill="#e6edf3"/>
+    </g>
+
+    <!-- info -->
+    <text x="310" y="84" fill="#5EC5A5" font-weight="600">luke@pulumi</text>
+    <text x="310" y="106" fill="#6e7681">───────────</text>
+    <text x="310" y="134" fill="#5EC5A5">role</text>      <text x="452" y="134" fill="#e6edf3">computer scientist</text>
+    <text x="310" y="161" fill="#5EC5A5">langs</text>     <text x="452" y="161" fill="#e6edf3">go · typescript · python · swift</text>
+    <text x="310" y="188" fill="#5EC5A5">building</text>  <text x="452" y="188" fill="#e6edf3">speculate · pmox · Ezmoji</text>
+    <text x="310" y="215" fill="#5EC5A5">uptime</text>    <text x="452" y="215" fill="#e6edf3">since aug 2020</text>
+    <text x="310" y="242" fill="#5EC5A5">web</text>       <text x="452" y="242" fill="#e6edf3">luke-ward.com</text>
+    <text x="310" y="269" fill="#5EC5A5">theme</text>     <text x="452" y="269" fill="#9198a1">dark — as intended</text>
+  </g>
+</svg>
