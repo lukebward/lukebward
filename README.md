@@ -1,7 +1,7 @@
 Computer scientist at [Pulumi](https://github.com/pulumi). Developer tools,
 mostly for infrastructure and coding agents.
 
-**Recent:** [speculate](https://github.com/lukebward/speculate) · [pmox](https://github.com/lukebward/pmox) · [Ezmoji](https://github.com/lukebward/Ezmoji)
+**Recent:** [speculate](https://github.com/lukebward/speculate) · [pmox](https://github.com/lukebward/pmox) · [hermes-agent-ec2-pulumi](https://github.com/lukebward/hermes-agent-ec2-pulumi)
 
 [luke-ward.com](https://luke-ward.com)
 
