@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img alt="luke@pulumi — computer scientist · go, typescript, python, swift · building speculate, pmox, Ezmoji" src="assets/terminal-light.svg" width="100%">
+  <img alt="terminal session — $ neofetch: luke@pulumi, computer scientist, go · typescript · python · swift, building speculate · pmox · Ezmoji. $ ls ~/now: speculate/ pmox/ Ezmoji/" src="assets/terminal-light.svg" width="100%">
 </picture>
 
 ### Now
