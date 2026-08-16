@@ -1,9 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img alt="terminal session — $ neofetch: luke@pulumi, computer scientist, go · typescript · python · swift, building speculate · pmox · Ezmoji" src="assets/terminal-light.svg" width="100%">
-</picture>
+Computer scientist at [Pulumi](https://github.com/pulumi). Developer tools,
+mostly for infrastructure and coding agents.
 
-**Recent** — [speculate](https://github.com/lukebward/speculate) · [pmox](https://github.com/lukebward/pmox) · [Ezmoji](https://github.com/lukebward/Ezmoji) · more at [luke-ward.com](https://luke-ward.com)
+**Recent:** [speculate](https://github.com/lukebward/speculate) · [pmox](https://github.com/lukebward/pmox) · [Ezmoji](https://github.com/lukebward/Ezmoji)
+
+[luke-ward.com](https://luke-ward.com)
 
 <!-- the old banner lives here now.
 
